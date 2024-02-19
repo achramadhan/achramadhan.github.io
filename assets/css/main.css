@@ -3077,21 +3077,16 @@ body.is-touch .poptrox-popup .closer {
   opacity: 1 !important;
 }
 
-/* tableau */
+/* hide text */
 #more1,
 #more2,
 #more3,
-#more4 {
+#more4,
+#more5{
   display: none;
 }
 
-/* R Programming */
-#more10,
-#more11,
-#more12,
-#more13 {
-  display: none;
-}
+
 
 /* XLarge */
 
